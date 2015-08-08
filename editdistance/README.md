@@ -14,5 +14,5 @@ There is no way to achieve it with fewer than three operations.
 * https://youtu.be/We3YDTzNXEk?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 
 ### Formula
-!(http://2.bp.blogspot.com/-4DT3u0T9jpc/Tt4fEP0-BKI/AAAAAAAABBk/jC5QQfQS1ko/s1600/25_Figure1.PNG)
+![Edit distance formula](http://2.bp.blogspot.com/-4DT3u0T9jpc/Tt4fEP0-BKI/AAAAAAAABBk/jC5QQfQS1ko/s1600/25_Figure1.PNG)
 
