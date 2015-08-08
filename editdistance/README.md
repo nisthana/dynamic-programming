@@ -9,6 +9,8 @@ For example, the edit distance between “Saturday” and “Sunday” is 3, sin
 There is no way to achieve it with fewer than three operations.
 
 ### Tutorials and References
-* [http://codercareer.blogspot.com/2011/12/no-25-edit-distance.html]
-* [http://people.cs.clemson.edu/~bcdean/dp_practice/dp_8.swf]
+* http://codercareer.blogspot.com/2011/12/no-25-edit-distance.html
+* http://people.cs.clemson.edu/~bcdean/dp_practice/dp_8.swf (requires flash)
+* https://youtu.be/We3YDTzNXEk?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+
 
