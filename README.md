@@ -1,2 +1,4 @@
-# dynamic-programming
-## Edit Distance
+## dynamic-programming
+I have been struggling to learn Dynamic Programming. I have never used DP in my 15 years tech career but I think times have changed and any sofware engineer needs to know DP or at least be able to solve the problems. I am watching multiple tutorials and blogs to understand various problems and how to solve for them. I have to go through multiple resources for each problem as everyone explains it in a different way and there are some tutorials I understand and some I don't. Although its frustrating, patience and practice will pay off. While I am practicing, I thought of sharing my research and code to the developer community for whatever its worth. Its all open source so have fun with it.
+
+Also checkout my startup - http://flypals.com :-)
