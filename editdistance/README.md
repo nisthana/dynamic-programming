@@ -13,4 +13,6 @@ There is no way to achieve it with fewer than three operations.
 * http://people.cs.clemson.edu/~bcdean/dp_practice/dp_8.swf (requires flash)
 * https://youtu.be/We3YDTzNXEk?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 
+### Formula
+!(http://codercareer.blogspot.com/2011/12/no-25-edit-distance.html)
 
